@@ -1,0 +1,96 @@
+---
+title: FUN-Forum WiSe 24/25 
+subtitle: Reading Club - Rohrer et al (2018)
+author: Samuel M.
+logo: img/ph-logo.svg
+picture: img/KA.jpeg
+date: today
+lang: de
+date-format: long
+format: rlille-revealjs
+lightbox: true
+bibliography: references.bib
+csl: apa.csl
+---
+
+## Überblick {.smaller .center}
+
+```{r }
+#| label: libraries
+#| echo: false
+```
+
+| {{< iconify fa6-solid:arrows-rotate >}} | Updates |          
+|-----------------:|:-----------------------------------------------------|
+| {{< iconify fa6-solid:dumbbell >}} | Warm-Up |
+| {{< iconify fa-solid:comments >}} | Grundbegriffe |
+| {{< iconify fa-solid:comments >}} | Für uns relevante(ste) Probleme |
+
+: {#tbl-agenda tbl-colwidths="\[15,285\]"}
+
+```{=html}
+<!-- style the agenda table -->
+
+<style>
+#tbl-agenda table th {
+font-weight: normal !important;
+border: none !important;
+}
+
+#tbl-agenda table td {
+font-weight: normal !important;
+border: none !important;
+}
+
+#tbl-agenda .quarto-float-caption {
+  display: none !important;  
+</style>
+```
+
+
+## Updates {{< iconify fa6-solid:arrows-rotate >}} {.smaller .center}
+* Konferenz 
+    * Im Juli oder Einführungswoche
+    * 2 Tage mit einem halben Transfer in Form von Workshops für Lehrkräfte Seminarleitungen
+    * Format: 2-3 Keynotes, je Teilprojekt ein Workshop mit 3-4 eingelandenen Vorträgen, die optimal auf eure Interessen zugeschnitten sind
+* Eure Aufgaben
+    * Vorschläge für Keynotes, Workshops, eingeladene Vorträge
+    * Gerne auch schon informell bei Symposiumsteilnehmern anfragen
+
+
+
+## Warm-Up {{< iconify fa6-solid:dumbbell >}} {.smaller .center}
+> Ein Team von Forscher:innen untersucht die Lernförderlichkeit von **formativem Feedback** (*»du kannst Plusaufgaben schon sicher über den Zehner, übe doch als nächstes dieses Blatt mit Minusaufgaben über den Zehner«*) gegenüber summativem Feedback (*»Plusaufgaben mit Zehnerübergang 2+, Minusaufgaben mit Zehnerübergang 3-4«*) nach der Theorie von Hattie & Timperley (2006) . Dazu ermitteln Sie mithilfe einer Videostudie, in welchen Klassen in Mathematik besonders oft formatives Feedback gegeben wird und erheben dort die fachlichen Leistungen. 
+
+:::: {.columns}
+
+::: {.column width='50%'}
+1) Klassifiziert die Studie als
+    * empirisch/theoretisch/methodisch
+    * querschnittlioch/längsschnittlich
+    * explanativ/explorativ/deskriptiv
+    * experimentell/quasiexp./nicht-exp.
+:::
+
+::: {.column width='50%'}
+2) Angenommen die Forsch:innen sehen in den Daten, dass in diesen Klassen die Schüler:innen in einem Leistungstest tatsächlich besser abschneiden als in Klassen mit weniger formativem Feedback, kann dennoch nicht geschlussfolgert werden, dass das formative Assessment lerförderlicher ist. Warum?
+:::
+
+::::
+
+
+## Grundbegriffe {{< iconify fa-solid:comments >}} {.center}
+> Notiert auf der Rückseite eures Blattes einen DAG, der die Kausalbeziehung (einer Teilmenge) von Variablen aus eurer Dissertation darstellt. Markiert darin (falls vorhanden), Pipes, Forks, Inverted Forks und Backdoor Paths.
+
+
+## Für uns relevante(ste) Probleme {{< iconify fa-solid:comments >}} 
+
+**Selection Bias:** Lest den entsprechenden Abschnitt und zeichnet ein Streudiagramm von `grit` und `intelligence` in der ihr die im Text beschriebene Entstehung der spurious correlation durch den Selection Bias nachvollzieht
+
+
+**Post-treatment Bias:**  
+![](Post Treatment Bias.png){width=50%}
+
+## References {.scrollable}
+
+

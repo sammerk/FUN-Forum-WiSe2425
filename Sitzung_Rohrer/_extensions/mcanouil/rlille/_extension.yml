@@ -1,0 +1,18 @@
+title: R PHKA Presentation Template
+author: Samuel Merk
+version: 0.0.1
+quarto-required: ">=1.2.280"
+contributes:
+  formats:
+    revealjs:
+      controls: true
+      shortcodes:
+        - mcanouil/iconify
+      template-partials:
+        - title-slide.html
+      slide-number: true
+      menu: true
+      highlight-style: github-dark
+      theme: phka.scss
+filters:
+  - shinylive
